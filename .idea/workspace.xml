@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd88922d-c199-49ed-b9c0-2eb767ed19f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basic_api/permission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_api/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="119" selection-start-line="119" selection-end-line="119" />
+            <state relative-caret-position="581">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -202,13 +199,20 @@
       <option name="project" value="LOCAL" />
       <updated>1583571592918</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Profile API">
+      <created>1583685032166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583685032167</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35486266" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25983667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,7 +253,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="API configuration" />
     <MESSAGE value="model config" />
-    <option name="LAST_COMMIT_MESSAGE" value="model config" />
+    <MESSAGE value="Profile API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profile API" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basic_api/apps.py">
@@ -334,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="581">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
